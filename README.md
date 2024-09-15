@@ -66,7 +66,7 @@ The model is evaluated using Mean Squared Error (MSE) and Root Mean Squared Erro
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
