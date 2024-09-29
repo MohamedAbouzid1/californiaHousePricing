@@ -1,4 +1,4 @@
-# California House Pricing - Machine Learning Project
+# California House Pricing - ML Project
 
 This project focuses on predicting California house prices using a linear regression model. The dataset used is the California housing dataset, which contains information on housing prices along with demographic and geographic data.
 
